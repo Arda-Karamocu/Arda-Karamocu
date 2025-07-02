@@ -110,9 +110,9 @@
 <a href="https://wakatime.com/@Arda_Karamocu">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arda-Karamocu&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Arda_Karamocu&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arda-Karamocu&layout=compact&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arda_Karamocu&layout=compact&theme=github_dark" />
   </picture>
 </a>
