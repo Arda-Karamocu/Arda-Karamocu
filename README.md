@@ -19,17 +19,8 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   </a>
-  <a href="https://wikipedia.org/wiki/C_(programming_language)/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />
-  </a>
   <a href="https://wikipedia.org/wiki/C%2B%2B/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png?raw=true" alt="rust" width="45" height="45" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
@@ -46,12 +37,6 @@
   <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
   </a>
-  <a href="https://nextjs.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
-      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" height="45">
-    </picture>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
   </a>
@@ -61,15 +46,6 @@
   <a href="https://tailwindcss.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45" />
   </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
-  </a>
   <a href="https://wikipedia.org/wiki/Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
   </a>
@@ -78,9 +54,6 @@
   </a>
   <a href="https://github.com/PowerShell/PowerShell">
     <img src="https://github.com/PowerShell/PowerShell/blob/master/assets/Powershell_64.png?raw=true" alt="powershell" width="45" height="45"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   </a>
   <a href="https://www.figma.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
